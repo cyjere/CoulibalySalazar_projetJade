@@ -35,3 +35,4 @@ Désirs : PAYER (100) > QUITTER (90) > ANNULER (60) > CHERCHER_TAXI (50) > ATTEN
 La ville (EnvironmentAgent) crée les clients et diffuse le trafic ; l'agent `display` affiche la carte.
 
 `captures/` : une capture d'écran par scénario.
+`videos/` : une vidéo de démonstration par scénario.
